@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1503204836 source:c:\users\sande\desktop\codeblock programs\acebinary\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

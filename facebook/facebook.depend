@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520516152 source:c:\users\sande\desktop\codeblock programs\facebook\main.c
+	<stdio.h>
+	<stdlib.h>
+

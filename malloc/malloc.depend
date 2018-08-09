@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1533833761 source:c:\users\sande\desktop\codeblock programs\malloc\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+

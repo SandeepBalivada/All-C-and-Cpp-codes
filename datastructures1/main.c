@@ -3,7 +3,7 @@ int main()
 {
  int i,k,n,a[30],p;
  printf("B.Sandeep");
- printf("\n15115029\n");
+ printf("\n 15115029\n");
  printf("enter the size of the array\n");
  scanf("%d",&p);
  printf("\nenter the %d elements of the array\n",p);

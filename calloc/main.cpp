@@ -5,7 +5,7 @@ int main () {
    int i, n;
    int *a;
 
-   printf("Number of elements to be entered:");
+   printf("Number of elements to be entered :");
    scanf("%d",&n);
 
    a = (int*)calloc(n, sizeof(int));

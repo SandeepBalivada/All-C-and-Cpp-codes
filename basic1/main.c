@@ -6,7 +6,7 @@ int main()
 {
  int i,j,m,n;
  //clrscr();
- printf("printing the prime numbers in a definite range:\n\n Enter the first and last numbers in the range of numbers:");
+ printf("printing the prime numbers in a definite range:\n\n Enter the first and last numbers in the range of numbers :");
  scanf("%d,%d",&i,&j);
  printf("the prime numbers present in the range of %d to %d is:",i,j);
 /* for(m=i;m<j;m++)

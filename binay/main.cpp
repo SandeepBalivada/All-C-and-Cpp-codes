@@ -18,7 +18,7 @@ int main()
     {
         mid= (l+r)/2;
         if(a[mid]==k){
-          cout<<"Element "<<k<<" found at position "<<mid+1<<endl;
+          cout<<"Element "<<k<<"found at position "<<mid+1<<endl;
           flag++;
           break;
           }

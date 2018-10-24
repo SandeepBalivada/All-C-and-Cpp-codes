@@ -39,7 +39,7 @@ low=low;
 high=mid-1;
 }
 }
-printf("name not found\n");
+printf("name is not found\n");
 return 0;
 }
 

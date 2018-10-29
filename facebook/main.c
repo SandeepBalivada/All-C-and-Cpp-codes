@@ -11,7 +11,7 @@ int main()
  {
    printf("Enter your number:\n");
    scanf("%d",&a[i]);
-   //to check whether the number is prime or not
+   //to  check whether the number is prime or not
   for(j=2;j<(a[i]/2);j++)
   {
       if(a[i]%j==0)

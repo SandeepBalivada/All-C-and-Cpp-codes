@@ -32,5 +32,5 @@ int findIndex(int a[],int n)
     printf("0->1 transition occured at: ");
     printf("%d",j+1);
     return 0;
-    }
+   }
 }

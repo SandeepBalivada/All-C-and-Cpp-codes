@@ -23,7 +23,7 @@ int main()
      else
      {
       l=mid+1;
-     }
+    }
     }
     printf("The position where we get the first 1 is: a[%d]",pt);
     return 0;

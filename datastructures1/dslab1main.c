@@ -5,7 +5,7 @@ int main()
  printf("B.Sandeep");
  printf("\n15115029\n");
  printf("enter the size of the array\n");
- scanf("%d",&p);
+ scanf("%d ",&p);
  printf("\nenter the %d elements of the array\n",p);
  for(i=0;i<p;i++)
     scanf("%d",&a[i]);

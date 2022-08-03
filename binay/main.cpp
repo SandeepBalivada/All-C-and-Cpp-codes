@@ -14,6 +14,7 @@ int main()
     cin>>k;
     int l=0,mid,flag=0;
     int r=n-1;
+    
     while(l<=r)
     {
         mid= (l+r)/2;
